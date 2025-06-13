@@ -1,0 +1,37 @@
+
+body {
+    font-family: "Tahoma";
+    font-size: 12px;
+}
+
+/* estilo para el formulario */
+#formulario {
+    border: solid 2px #b7d2f1;
+    background: #b7d2f1;
+    margin: 0 auto;
+    width: 400px;
+    padding: 14px;
+}
+
+/* estilo para el título */
+h1 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+/* estilo para el texto y su línea */
+#linea {
+    color: #666666;
+    margin-bottom: 30px;
+    border-bottom: solid 1px #fff;
+    padding-bottom: 5px;
+}
+
+/* estilo para los textos del formulario */
+label {
+    display: block;
+    font-weight: bold;
+    width: 140px;
+    font-size: 12px;
+}
